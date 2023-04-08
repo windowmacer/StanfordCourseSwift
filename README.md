@@ -1,1 +1,1 @@
-# StanfordCourseSwift
+# Stanford Course Swift
